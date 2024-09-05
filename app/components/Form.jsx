@@ -37,6 +37,9 @@ const Form = () => {
             <option>Apple</option>
             <option>Samsung</option>
             <option>Huawei</option>
+            <option>One Plus</option>
+            <option>Realme</option>
+            <option>Sony</option>
           </select>
         </div>
 
@@ -51,7 +54,9 @@ const Form = () => {
           <select className="w-full px-3 py-2 border rounded-md focus:outline-none focus:ring-2 focus:ring-red-500">
             <option>Grameenphone</option>
             <option>Robi</option>
+            <option>Airtel</option>
             <option>Banglalink</option>
+            <option>Teletalk</option>
           </select>
         </div>
 
